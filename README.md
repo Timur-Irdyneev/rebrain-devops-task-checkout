@@ -1,21 +1,24 @@
-# 'DevOps REBRAIN'
-### Модуль 'BASIC'
+## Курс DevOps REBRAIN BY FEVLAKE
 
-### Задание 1
-Настроить git client
-'''sh
-git config --global user.name "Timur, Irdyneev"
-git config --global user.email "timlighter@gmail.com"
-'''
+Репозиторий для прохождения модуля `Basics (GIT)` 
 
-Создать 'git' репозиторий с файлами:
- - README.md
- - nginx.conf
-	> содержит базовую конфигурацию 
-	> после установки пакета в linux
-	> /etc/nginx/nginx.conf
+### Список модулей
 
-'''sh
-git init rebrain-devops-task1
-git 
-'''
+- Basics (GIT)
+- Operations (terraform, ansible, vagrant, saas, etc…)
+- Development (golang, ruby, python, nodejs, java, etc…)
+- QA (unit tests, smoke tests, load tests, integration tests)
+- DevOps (ci/cd, jenkins / teamcity / gitlab ci / codeship, feedback prometheus, etc..)
+- Docker (docker, dockerfile, orcestration - swarm / kubernetes, etc…)
+
+### Текущий статус
+
+- Basics (GIT) задание № 4
+
+```
+Описание репозитория в README.md
+```
+
+## Участники
+
+* **Timur Irdyneev** - *студент* - [GitLab](https://gitlab.com/timlighter)
