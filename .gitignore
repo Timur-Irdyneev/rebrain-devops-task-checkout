@@ -1,6 +1,5 @@
 ### DevOps REBRAIN Basic task 5 ###
-/tmp/**/*
-/tmp/*
+/tmp/
 
 
 # Created by https://www.gitignore.io/api/git
